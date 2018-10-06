@@ -121,4 +121,4 @@ set foldmethod=indent
 set foldlevel=99
 nnoremap <space> za
 ```
-Thanks for checking this out! :neckbeard::toungue::peach"
+Thanks for checking this out! :neckbeard::tongue::peach:

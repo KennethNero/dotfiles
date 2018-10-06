@@ -1,5 +1,5 @@
 # Welcome
-Hello owo and thank you for visiting the repo. This repo holds my .vim and .vimrc configuration files for my current vim editor settings. Each one of the dependencies has instructions for separate installation below. :+1:
+Hello and thank you for visiting the repo. This repo holds my .vim and .vimrc configuration files for my current vim editor settings. Each one of the dependencies has instructions for separate installation below. :+1:
 
 This repository was last updated October 6th, 2018.
 
@@ -121,3 +121,4 @@ set foldmethod=indent
 set foldlevel=99
 nnoremap <space> za
 ```
+Thanks for checking this out! :neckbeard::toungue::peach"

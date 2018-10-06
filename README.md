@@ -3,14 +3,14 @@ Hello owo and thank you for visiting the repo. This repo holds my .vim and .vimr
 
 This repository was last updated October 6th, 2018.
 
-- [Getting Started](##getting-started)
-- [Pathogen](##pathogen)
-- [Theme](##background)
-- [Addons](##addons)
-  - [NerdTree](###nerdTree)
-  - [LightLine](###lightLine)
-  - [Terminus](###terminus)
-- [Extra configurations](###extras)
+- [Getting Started](#getting-started)
+- [Pathogen](#pathogen)
+- [Theme](#background)
+- [Addons](#addons)
+  - [NerdTree](#nerdtree)
+  - [LightLine](#lightline)
+  - [Terminus](#terminus)
+- [Extra configurations](#extras)
 
 ## Getting Started
 ### Cloning

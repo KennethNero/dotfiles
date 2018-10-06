@@ -1,4 +1,4 @@
-#Welcome
+# Welcome
 Hello owo and thank you for visiting the repo. This repo holds my .vim and .vimrc configuration files for my current vim editor settings. Each one of the dependencies has instructions for separate installation below. :+1:
 
 This repository was last updated October 6th, 2018.
@@ -12,8 +12,8 @@ This repository was last updated October 6th, 2018.
   - [Terminus](###Terminus)
 - [Extra configurations](###Extras)
 
-##Getting Started
-###Cloning
+## Getting Started
+### Cloning
 
 To use this configuration. Preform the following steps:
 ```
@@ -23,7 +23,7 @@ mv -t ~/ dotfiles/.vim dotfiles/.vimrc
 ```
 You will now be using this directory's files for your vim configuration
 
-##Pathogen
+## Pathogen
 
 Pathogen, a free online package manager, is used for all of the installed packages. 
 Instructions on installation can be found at https://github.com/tpope/vim-pathogen 
@@ -35,7 +35,7 @@ syntax on
 filetype plugin indent on
 ```
 
-##Theme
+## Theme
 One of the best parts about vim is it's ability to use custom background and styling components for the editor. The current one I use is called jellybeans. 
 
 Installation instructions:
@@ -53,10 +53,10 @@ let g:jellybeans_overrides = {
 ```
 The let command above changes the background of the vim editor to work better with the theme
 
-##Addons
+## Addons
 Instructions for installation of all currently used files can be found in the sections below!
 
-###NerdTree
+### NerdTree
 No matter what language you program in, I would heavily suggest this package. It allows you to directly see, open, create, and delete files in your system without having to leave the editor.
 
 Installation instructions:
@@ -69,7 +69,7 @@ To display the side pannel, I use the following configuration, however feel free
 map <C-n> :NERDTreeToggle<CR>
 ```
 
-###LightLine
+### LightLine
 This adds a bottom bar to the screen that shows what mode of vim you are currently in, along with a bunch of other really useful information, such as the file name, what line you are on, etc.
 Installation instructions:
 ```
@@ -86,7 +86,7 @@ endif
 ```
 These all just ensure lightline is functioning and displaying properly.
 
-###Terminus
+### Terminus
 This package allows for the cursor to change depending on the mode you are in for vim.
 
 Installation instructions:
@@ -101,7 +101,7 @@ let g:TerminusInsertCursorShape=1
 let g:TerminusReplaceCursorShape=2
 ```
 
-###Extras
+### Extras
 The following lines in my .vimrc are extra commands automatically installed for vim. 
 They handle line numbering and also add lines for padding to show me when I am about
 to go over 80 characters in length for a line.
